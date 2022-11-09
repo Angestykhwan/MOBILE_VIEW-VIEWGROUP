@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pertemuan3_VieeViewGrup2</string>
+    <string name="deskription_menu">deskripsi menu</string>
+    <string name="ingredients">ingredients</string>
+    <string name="Resep">resep</string>
+    <string name="price">price</string>
+    <string name="Harga_Cenil">15000</string>
+
+</resources>
